@@ -1,0 +1,2 @@
+django==2.2.12
+psycopg2_binary==2.8.5
