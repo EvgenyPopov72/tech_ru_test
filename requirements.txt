@@ -1,2 +1,2 @@
-django==2.2.12
+django==2.2.13
 psycopg2_binary==2.8.5
